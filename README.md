@@ -1,70 +1,145 @@
-# Getting Started with Create React App
+<div id="top"></div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![instagram][instagram-shield]][instagram-url]
+[![twitter][twitter-shield]][twitter-url]
+[![whatsapp][whatsapp-shield]][whatsapp-url]
 
-## Available Scripts
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/X-Suco-De-Fruta-X/Calculator">
+    <img src="images/calculator.png" alt="Logo" width="80" height="80">
+  </a>
 
-In the project directory, you can run:
+  <h3 align="center">Calculator - ReactJS</h3>
 
-### `npm start`
+  <p align="center">
+    An awesome <strong>Calculator</strong> created to improve skills on React JS!
+    <br />
+    <br />
+    <a href="https://github.com/X-Suco-De-Fruta-X/Calculator">View Demo</a>
+    ·
+    <a href="https://github.com/X-Suco-De-Fruta-X/Calculator/issues">Report Bug</a>
+    
+  </p>
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+    </li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This project is a task organizer it is separated into two topics Completed and Not Completed. This app have filters for better organization based on those topics.
 
-### `npm run eject`
+This app is needed for a few points:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<strong>Improves your memory:</strong> A to-do list works as an external memory helper. It is only possible to store some information at one time. Keep a to-do list and you'll be able to keep track of everything, rather than just some of the tasks you need to do. Your to-do list will also reinforce the information, which makes it less likely that you'll forget something.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<strong>Increases productivity:</strong> A to-do list lets you prioritize the most important tasks. This means you don't waste time on tasks that don't require your immediate attention. Your list will help you stay focused on the most important tasks.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<strong>Helps with motivation:</strong> To-do lists are a great motivational tool because you can use them to clarify your goals. You can break your long-term goal down into smaller, more achievable short-term goals, and as you tick each one off your list, your confidence will increase.
+ 
+This is Just a few points, but the main reason this one was created is because it's a great workout for anyone trying to learn a new framework or library, with concepts of manipulation, deletion, addition and memory management.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-## Learn More
+### Built With
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This section is for all frameworks/libraries used on this project.If you wanna know more about the framework/library just click on it :smile:.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [JavaScript](https://www.javascript.com)
+* [React.js](https://reactjs.org/)
+* [Bootstrap](https://getbootstrap.com)
+* [FontAwesome](https://fontawesome.com)
 
-### Code Splitting
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<!-- GETTING STARTED -->
+## Getting Started
 
-### Making a Progressive Web App
+For you run this project you will need to install it locally using npm.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Installation
 
-### Advanced Configuration
+1. Clone the repository
+   ```bash
+   git clone https://github.com/your_username_/To-Do-App-ReactJS.git
+   ```
+2. Clone the repository
+   ```bash
+    cd To-Do-App-ReactJS
+    cd todoapp
+   ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+3. Install NPM packages
+   ```bash
+   npm install  
+   ```
 
-### Deployment
+4. Run start command on npm
+   ```bash
+   npm start
+   ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-### `npm run build` fails to minify
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project was built and posted on youtube by DeivId, Thanks for the free study material!
+
+* [DevEd](https://github.com/developedbyed/)
+* [Img Shields](https://shields.io)
+* [Font Awesome](https://fontawesome.com)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[instagram-shield]: https://img.shields.io/badge/-instagram-black.svg?style=for-the-badge&logo=instagram&colorB=555
+[twitter-shield]: https://img.shields.io/badge/-twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
+[whatsapp-shield]: https://img.shields.io/badge/-whatsapp-black.svg?style=for-the-badge&logo=whatsapp&colorB=555
+[linkedin-url]: https://linkedin.com/in/glauco-lustosa
+[instagram-url]: https://instagram.com/glauco.lustosa
+[twitter-url]: https://twitter.com/GlaucoNao
+[whatsapp-url]: https://api.whatsapp.com/send?phone=5511945311198&text=Ol%C3%A1%2C%20vi%20seu%20GitHub%20e%20estou%20interessado%20no%20seu%20trabalho.
+[product-screenshot]: images/screenshot.png
