@@ -92,8 +92,7 @@ For you run this project you will need to install it locally using npm.
    ```
 2. Clone the repository
    ```bash
-    cd To-Do-App-ReactJS
-    cd todoapp
+    cd Calculator
    ```
 
 3. Install NPM packages
