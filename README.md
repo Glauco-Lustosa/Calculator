@@ -53,17 +53,16 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This project is a task organizer it is separated into two topics Completed and Not Completed. This app have filters for better organization based on those topics.
+This project is a simple calculator project.
 
 This app is needed for a few points:
 
-<strong>Improves your memory:</strong> A to-do list works as an external memory helper. It is only possible to store some information at one time. Keep a to-do list and you'll be able to keep track of everything, rather than just some of the tasks you need to do. Your to-do list will also reinforce the information, which makes it less likely that you'll forget something.
+<strong>Improves Logic Skills</strong>
 
-<strong>Increases productivity:</strong> A to-do list lets you prioritize the most important tasks. This means you don't waste time on tasks that don't require your immediate attention. Your list will help you stay focused on the most important tasks.
+<strong>Increases ReactJS Aknowlegdment</strong>
 
-<strong>Helps with motivation:</strong> To-do lists are a great motivational tool because you can use them to clarify your goals. You can break your long-term goal down into smaller, more achievable short-term goals, and as you tick each one off your list, your confidence will increase.
  
-This is Just a few points, but the main reason this one was created is because it's a great workout for anyone trying to learn a new framework or library, with concepts of manipulation, deletion, addition and memory management.
+This is Just a few points, but the main reason this one was created is because it's a great workout for anyone trying to learn a new framework or library, with concepts of manipulation of data, grid layout, hooks.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -75,8 +74,6 @@ This section is for all frameworks/libraries used on this project.If you wanna k
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [JavaScript](https://www.javascript.com)
 * [React.js](https://reactjs.org/)
-* [Bootstrap](https://getbootstrap.com)
-* [FontAwesome](https://fontawesome.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -91,7 +88,7 @@ For you run this project you will need to install it locally using npm.
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your_username_/To-Do-App-ReactJS.git
+   git clone https://github.com/your_username_/Calculator.git
    ```
 2. Clone the repository
    ```bash
@@ -116,9 +113,8 @@ For you run this project you will need to install it locally using npm.
 
 This project was built and posted on youtube by DeivId, Thanks for the free study material!
 
-* [DevEd](https://github.com/developedbyed/)
+* [DevEd](https://github.com/TylerPottsDev)
 * [Img Shields](https://shields.io)
-* [Font Awesome](https://fontawesome.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
